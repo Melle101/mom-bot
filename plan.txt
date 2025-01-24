@@ -1,0 +1,13 @@
+get current holdings
+
+get next periods holdings
+
+find good swaps
+
+make swaps
+
+repeat
+
+???
+
+profit

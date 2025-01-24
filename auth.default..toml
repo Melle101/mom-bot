@@ -1,0 +1,5 @@
+# auth info
+
+username = "username"
+password = "password"
+TOTP = "TOTP - Token"
