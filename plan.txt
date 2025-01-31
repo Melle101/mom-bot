@@ -1,13 +1,2 @@
-get current holdings
-
-get next periods holdings
-
-find good swaps
-
-make swaps
-
-repeat
-
-???
-
-profit
+Know problems
+    - Assumes 5 unique positions OR
